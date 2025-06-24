@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "aboutUs": "About Us",
+  "contactUs": "Contact Us",
+  "aboutUsText": "Welcome to the myVideo app! We provide high-quality videos.\nWe are committed to delivering the best viewing experience and appreciate your feedback.\nIf you have any questions or suggestions, please feel free to contact us.",
+  "language": "Language",
+  "searchVideos": "Search videos...",
+  "noVideo": "No video found",
+  "english": "English",
+  "finnish": "Finnish",
+  "home": "Home",
+  "menu": "Menu",
+  "fixTimestamps": "Video list refreshed",
+  "errorLoadingVideos": "Error loading videos",
+  "noTitle": "No Title",
+  "watch": "Watch",
+  "clicktoWatch": "Watch"
+}

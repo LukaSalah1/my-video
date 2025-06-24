@@ -1,0 +1,18 @@
+{
+  "@@locale": "fi",
+  "aboutUs": "Tietoa meistä",
+  "contactUs": "Ota yhteyttä",
+  "aboutUsText": "Tervetuloa myVideo-sovellukseen! Tarjoamme laadukkaita videoita.\nOlemme sitoutuneet tuomaan sinulle parhaan katselukokemuksen, ja arvostamme palautettasi.\nJos sinulla on kysymyksiä tai ehdotuksia, ota rohkeasti yhteyttä.",
+  "language": "Kieli",
+  "searchVideos": "Hae videoita...",
+  "noVideo": "Videota ei löytynyt",
+  "english": "Englanti",
+  "finnish": "Suomi",
+  "home": "Koti",
+  "menu": "Valikko",
+  "fixTimestamps": "Videoluettelo päivitetty",
+  "errorLoadingVideos": "Virhe ladattaessa videoita",
+  "noTitle": "Ei otsikkoa",
+  "watch": "Katso",
+  "clicktoWatch": "Katso"
+}
